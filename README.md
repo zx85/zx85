@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zx85
+- 👋 Hi, I’m james - also @zx85
 - 👀 I’m interested in audio, retro computers and doing things with Arduinos sometimes
 - 🌱 I’m currently learning how to do things with an ESP32 / 8266 and MicroPython.
 - 📫 How to reach me: @zx85.bsky.social on BlueSky and my website is [zx85.me](https://zx85.me)
